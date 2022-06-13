@@ -1,0 +1,18 @@
+-- npm option
+-D : Development Mode
+-g : Global Install, we can use CLI(Command-Line Interface) in terminal
+
+1. npm init -y
+1-1. npm install -g npm [Update Latest Version]
+
+2. npm install express
+
+3. npm install nodemon -D
+
+4 npm install @babel/core -D [main package]
+4-1 npm install @babel/cli -D [command line tools]
+4-2 npm install @babel/node -D
+4-3 npm install @babel/preset-env -D
+4-4 what is babel? https://www.daleseo.com/js-babel-node
+
+5. npm install pug
