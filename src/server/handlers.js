@@ -1,4 +1,4 @@
-import { sockets } from "./config.js";
+import { sockets } from "./init.js";
 
 module.exports = function (socket) {
 

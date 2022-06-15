@@ -1,5 +1,5 @@
 import express from "express";
-import { app, httpServer, wss, sockets } from "./config.js";
+import { app, httpServer, wss, sockets } from "./init.js";
 import makeHandlers from "./handlers.js";
 
 app.set("views", __dirname + "/../views"); // template location setting.
